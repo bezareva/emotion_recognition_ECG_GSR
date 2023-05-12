@@ -1,0 +1,6 @@
+neutral_vs_stress: U,[0.0]
+neutral_vs_stress: p,[0.05714285714285714]
+neutral_vs_calm: U,[12.0]
+neutral_vs_calm: p,[0.05714285714285714]
+stress_vs_calm: U,[16.0]
+stress_vs_calm: p,[0.02857142857142857]
