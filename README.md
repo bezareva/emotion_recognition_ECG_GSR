@@ -12,7 +12,7 @@ signals, using `pyHRV` library.
 Statistical analysis (Mann-Whitney U test) showed unambiguous difference
 in reactions.
 
-##Results
+## Results
 
 **ECG signal - filtered, RR peaks detected:**
 
