@@ -19,6 +19,6 @@ in reactions.
 ![ecg_rr_peakes.png](https://raw.githubusercontent.com/bezareva/static/master/emotional_recognition_ECG_GSR/ecg_rr_peakes.png)
 
 
-**Boxplot - HRV parameters for three emotional states: no visual stimuli, stressed and calm scenario (test subject ID = 1):**
+**Boxplot - HRV parameters for three emotional states: no visual stimuli, stresseful and calm scenario (test subject ID = 1):**
 
 ![hrv_parameters.png](https://raw.githubusercontent.com/bezareva/static/master/emotional_recognition_ECG_GSR/hrv_parameters.png)
